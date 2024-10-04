@@ -1,0 +1,12 @@
+﻿  EBO.cpp
+  main.cpp
+  shaderClass.cpp
+  stb.cpp
+  VAO.cpp
+  VBO.cpp
+  Generating Code...
+C:\Users\Admin\source\repos\OpenGL-Tut\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+C:\Users\Admin\source\repos\OpenGL-Tut\VAO.cpp(13,53): warning C4305: 'argument': truncation from 'int' to 'GLboolean'
+C:\Users\Admin\source\repos\OpenGL-Tut\VAO.cpp(13,53): warning C4309: 'argument': truncation of constant value
+  glad.c
+  OpenGL-Tut.vcxproj -> C:\Users\Admin\source\repos\OpenGL-Tut\x64\Debug\OpenGL-Cube.exe
